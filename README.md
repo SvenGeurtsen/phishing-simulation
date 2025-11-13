@@ -1,5 +1,7 @@
 # 🧑‍💻 Phishing Simulation & Awareness Training
 
+[Live Preview](https://svengeurtsen.github.io/phishing-simulation/)
+
 ## 🎯 Objective
 The goal of this project was to assess how vulnerable employees are to phishing attacks and social engineering tactics.  
 A realistic phishing campaign was conducted against a small group of test users within a real organization to evaluate their response to deceptive emails and fake login portals.  
