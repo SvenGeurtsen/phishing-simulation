@@ -112,11 +112,16 @@ With **Google Analytics**, we monitored:
 ---
 
 ## 📸 Screenshots (to be added)
-- *Ref 1:* Example phishing email  
-- *Ref 2:* Fake Report App login page  
-- *Ref 3:* Awareness landing page  
-- *Ref 4:* Discord bot credential log  
-- *Ref 5:* Google Analytics overview  
+- *Ref 1:* Example phishing email  <img width="499" height="500" alt="Voorbeeld PhishingMail" src="https://github.com/user-attachments/assets/96fee920-8d91-4e48-b8df-9ec257ebc31e" />
+
+- *Ref 2:* Fake Report App login page  <img width="325" height="571" alt="Fakeinlog pagina" src="https://github.com/user-attachments/assets/d58882b1-05e3-4b2e-a9f4-607270cd6efc" />
+
+- *Ref 3:* Awareness landing page  <img width="300" height="335" alt="Awareness landing page" src="https://github.com/user-attachments/assets/8c050ce1-ffc9-403d-9947-bde7abbb65c5" />
+
+- *Ref 4:* Discord bot credential log  <img width="826" height="179" alt="Discord bot credential log" src="https://github.com/user-attachments/assets/05577abf-99a6-48af-bd47-9a9b6e2997de" />
+
+- *Ref 5:* Google Analytics overview  <img width="726" height="195" alt="Google Analytics phishing mail" src="https://github.com/user-attachments/assets/ec37aa02-3e96-45a1-ae23-6fc9c0831d10" />
+
 
 ---
 
