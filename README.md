@@ -10,13 +10,12 @@ Following the test, an awareness training was provided to improve the organizati
 ---
 
 ## 🧩 Project Overview
-During a penetration test, we designed and executed a phishing simulation that mimicked legitimate internal communication.
+I independently designed and launched a complete phishing simulation.
+I created a convincing email claiming there had been a “suspicious login attempt” and instructing employees to reset their password through a provided link.
+This link directed them to a cloned login page of the organization’s internal Report App, which I fully built myself. Submitted credentials were securely captured on my custom backend server.
 
-A fake email — appearing to originate from **HvA students** — notified users of a *“suspicious login attempt”* and urged them to reset their password through a provided link.  
-That link led to a **cloned login page** of the organization’s *Report App*, where submitted credentials were securely captured on a custom-built local server.
-
-Captured data (email and password) were transmitted via an **encrypted Discord bot integration** to demonstrate real-world attacker exfiltration.  
-After submission, users were redirected to an **awareness landing page** explaining that this was part of a controlled security assessment.
+To demonstrate real-world data exfiltration, the captured credentials were forwarded through an encrypted Discord bot integration.
+After submitting information, users were redirected to a custom awareness landing page explaining that this was part of a controlled security assessment.
 
 ---
 
