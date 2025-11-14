@@ -66,7 +66,7 @@ To simulate a real-world attack:
 - Tested HTTPS functionality  
 
 ### 5️⃣ Discord Bot Integration
-An encrypted **Discord webhook** received submitted credentials, simulating exfiltration of stolen data in real time.
+An encrypted Discord webhook received submitted credentials, simulating exfiltration of stolen data in real time.
 
 ### 6️⃣ Awareness Landing Page
 After users submitted their credentials, they were redirected to an **awareness page** explaining the phishing test and providing immediate security advice.
@@ -90,7 +90,7 @@ These results demonstrate that while some employees could identify the attack, a
 One week after the phishing simulation, a **phishing-awareness workshop** was delivered in collaboration with the Report team.  
 Employees learned to:
 - Verify sender domains and detect spoofing  
-- Distinguish between **HTTP** and **HTTPS** websites  
+- Distinguish between HTTP and HTTPS websites  
 - Inspect URLs safely before clicking  
 - Recognize social engineering cues in emails  
 - Report phishing attempts within the organization  
@@ -135,4 +135,4 @@ With **Google Analytics**, we monitored:
 
 ### 🧾 Summary
 This project demonstrates how controlled phishing simulations can effectively measure and improve an organization’s resilience to social engineering.  
-It combined **offensive security techniques** (phishing design, credential capture) with **defensive education** (awareness training, analytics) — bridging the gap between **attacker insight and user empowerment**.
+It combined **offensive security techniques** (phishing design, credential capture) with **defensive education** (awareness training, analytics) bridging the gap between **attacker insight and user empowerment**.
